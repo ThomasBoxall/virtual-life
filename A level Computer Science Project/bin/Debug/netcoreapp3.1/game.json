@@ -1,0 +1,12 @@
+{
+  "FirstName": "ghjghj",
+  "LastName": "ghjghj",
+  "Gender": "Male",
+  "Sexuality": "Straight",
+  "Age": 0,
+  "LivingStatus": true,
+  "DateOfBirth": "2021-12-01T00:00:00+00:00",
+  "DateOfDeath": "0001-01-01T00:00:00",
+  "ReasonForDeath": null,
+  "InRelationship": false
+}
